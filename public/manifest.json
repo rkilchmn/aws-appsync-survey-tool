@@ -8,12 +8,12 @@
       "type": "image/x-icon"
     },
     {
-      "src": "Deck_Clock.png",
+      "src": "",
       "type": "image/png",
       "sizes": "192x192 512x512"
     }
   ],
-  "start_url": "/",
+  "start_url": "https://master.duio3fc67j3yx.amplifyapp.com/",
   "scope": "/",
   "display": "standalone",
   "theme_color": "#000000",
